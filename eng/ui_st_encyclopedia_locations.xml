@@ -2,19 +2,19 @@
 <string_table>
 	
 	<string id="encyclopedia_locations">
-		<text>Maps</text>
+		<text>Mappe</text>
 	</string>
 	
 	<string id="encyclopedia_locations_aprogrom">
-		<text>Agroprom Research Institute</text>
+		<text>Istituto di ricerca Agroprom</text>
 	</string>
 	<string id="encyclopedia_locations_aprogrom_text">
 		<text>
-			%c[0,0,255,30]Information\n%c[0,140,140,140]A strange, heavily contaminated area. Should you wander deeper into it, you will see a shallow lake, crammed short-to-shore with abandoned equipment and other debris. You can also check out the abandoned Institute and the factory, though the military have been hanging around there quite a lot recently.
+			%c[0,0,255,30]Informazioni\n%c[0,140,140,140]Una strana, area pesantemente contaminata. Should you wander deeper into it, you will see a shallow lake, crammed short-to-shore with abandoned equipment and other debris. You can also check out the abandoned Institute and the factory, though the military have been hanging around there quite a lot recently.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Great Swamps
-			\n%c[0,100,100,255]• %c[0,140,140,140]Garbage
-			\n%c[0,100,100,255]• %c[0,140,140,140]Yantar
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Great Swamps
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Garbage
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Yantar
 		</text>
 	</string>
 	
@@ -34,11 +34,11 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]A deserted army base next to a dilapidated hamlet and a small marsh. The village is an eerie place literally swarming with mutants - the bloodsuckers alone are legion. Stalkers do their best to keep away from it, even if it means going extra kilometers around it. The anarchists from the Freedom faction have settled down in the army base. The road connecting the base to the Zone is guarded by the Brain Scorcher, which blocks the way to Pripyat and the Chernobyl NPP.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Rostok
-			\n%c[0,100,100,255]• %c[0,140,140,140]Dead City
-			\n%c[0,100,100,255]• %c[0,140,140,140]Red Forest
-			\n%c[0,100,100,255]• %c[0,140,140,140]Radar
-			\n%c[0,100,100,255]• %c[0,140,140,140]Truck Cemetery
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Rostok
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Dead City
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Red Forest
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Radar
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Truck Cemetery
 		</text>
 	</string>
 	
@@ -58,9 +58,9 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]Think of it as the Zone's antechamber - it's a good place for rookies to get their head around. You'll find a trader in the vaults at the back of the village, next to the army outpost. Don't miss the chance to talk to him. You'd be advised to steer clear of the outpost itself, however. You don't want the soldiers to catch sight of you - most of them shoot first and don't bother asking questions later. Yet, as always, there are some who can be bribed as long as the top brass is looking the other way. Attacking the soldiers is not recommended, unless they pose a direct threat.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Garbage
-			\n%c[0,100,100,255]• %c[0,140,140,140]Great Swamps
-			\n%c[0,100,100,255]• %c[0,140,140,140]Darkscape
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Garbage
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Great Swamps
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Darkscape
 		</text>
 	</string>
 	
@@ -71,9 +71,9 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]Always gloomy, always misty and always rainy. Stalkers venturing into the Dark Valley are likely to find valuable artifacts, instant death, or both. A place frequented by some of the most experienced old-timers, though you may also stumble upon some common bandits. There's supposed to be an underground lab around there somewhere, so it might be worth to look for a hidden entrance along the way. No one has returned from there alive though and no one can tell for sure just what nasty surprises await you there.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Garbage
-			\n%c[0,100,100,255]• %c[0,140,140,140]Darkscape
-			\n%c[0,100,100,255]• %c[0,140,140,140]Truck Cemetery
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Garbage
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Darkscape
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Truck Cemetery
 		</text>
 	</string>
 	
@@ -85,8 +85,8 @@
 			%c[0,0,255,30]Information\n%c[0,140,140,140]A narrow valley shaped roughly like a crescent moon, it connects the southern edge of Dark Valley with the abandoned tunnel in the Cordon. Roads lead out of the area south and east, although where they exactly lead is unknown. It is a densely forested area with few landmarks, however, several of them stand out. At the end of the most narrow part of the valley lies a collapsed train bridge, part of the railway that passes through the Cordon and the Great Swamp.
 \nFurther to the south, the road separates before a hill. To the southwest, deep in the wilderness, lies an abandoned farm house, stripped bare of everything. The main road continues to a crossroads, next to which lies an abandoned gas station. From there, a road leads west, directly to the cordon.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Cordon
-			\n%c[0,100,100,255]• %c[0,140,140,140]Dark Valley
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Cordon
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Dark Valley
 		</text>
 	</string>
 	
@@ -100,9 +100,9 @@
 \nOver the years, the city was stripped of most of its valuables and by 2012, it was practically an empty shell of its former self.
 \nThe mercs had set a base for themselves in the sports centre, with Dushman being the leader.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Limansk
-			\n%c[0,100,100,255]• %c[0,140,140,140]Army Warehouses
-			\n%c[0,100,100,255]• %c[0,140,140,140]Yantar
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Limansk
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Army Warehouses
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Yantar
 		</text>
 	</string>
 	
@@ -113,11 +113,11 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]A vast machinery graveyard. Right after the first accident whole heaps of radioactive waste were dumped there. Mostly ruins of old buildings infested with mutants. Much like the outskirts of the Zone, the place swarms with rookie stalkers, with an occasional bandit loitering around, always on the lookout for freebies. Some artifacts can be found here, but most of them are just not worth the effort. You'll be better off elsewhere. Going North, you will get to the Wild Territory, West lays the entrance to Dark Valley, with the road to the Agroprom Research Institute to the East.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Cordon
-			\n%c[0,100,100,255]• %c[0,140,140,140]Darkscape
-			\n%c[0,100,100,255]• %c[0,140,140,140]Aprogrom
-			\n%c[0,100,100,255]• %c[0,140,140,140]Rostok
-			\n%c[0,100,100,255]• %c[0,140,140,140]Wild Territory
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Cordon
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Darkscape
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Aprogrom
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Rostok
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Wild Territory
 		</text>
 	</string>
 	
@@ -130,8 +130,8 @@
 \nTo the north lies the Agroprom Research Institute, just beyond the Hunter's Woods. To the east lies the Cordon. And to the west, the mysterious Tuzla tunnel.
 \nThe Great Swamp is where the game begins in Clear Sky, with the player starting out in the base of the Clear Sky faction. It is also the field of battle between Clear Sky and the conquering Renegades.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Cordon
-			\n%c[0,100,100,255]• %c[0,140,140,140]Aprogrom
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Cordon
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Aprogrom
 		</text>
 	</string>
 	
@@ -142,10 +142,10 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]Jupiter, located west of Pripyat, is a large area with Yanov Station near the center. The old train station functions as a camp for many stalkers, including detachments of both the Duty and Freedom factions, and it also houses a trader, a technician and a medic. Scientists have established a bunker near the station, researching the Zone along with its anomalies and artifacts, and some stalkers have also setup camp at an old cement factory to the north-east. Other places, such as the quarry, the village of Kopachy, and the Volkhov AA Complex are long deserted, now only inhabited by mutants and the "walking dead".
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Red Forest
-			\n%c[0,100,100,255]• %c[0,140,140,140]Zaton
-			\n%c[0,100,100,255]• %c[0,140,140,140]Pripyat
-			\n%c[0,100,100,255]• %c[0,140,140,140]Pripyat Underpass
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Red Forest
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Zaton
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Pripyat
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Pripyat Underpass
 		</text>
 	</string>
 	
@@ -158,9 +158,9 @@
 \nWhen the massive blowout came in September 2011, the anomalies disappeared and stalkers poured into the city, looking for an easy way past the Brain Scorcher and clashed with Bandits and the Monolith. The Limansk war zone is a mandatory element of the player's progress towards the Chernobyl Nuclear Power Plant and a point of no return in the game.
 \nIt lies to the north of the Dead City.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Dead City
-			\n%c[0,100,100,255]• %c[0,140,140,140]Red Forest
-			\n%c[0,100,100,255]• %c[0,140,140,140]The Hospital
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Dead City
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Red Forest
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]The Hospital
 		</text>
 	</string>
 	
@@ -171,10 +171,10 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]This used to be a town built for engineers working at the Chernobyl NPP. Quite a big place once, it is a ghost town now with mutants and zombies as the only residents. There seems to be no way to get in there: the Brain Scorcher is blocking the way.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Radar
-			\n%c[0,100,100,255]• %c[0,140,140,140]Jupiter
-			\n%c[0,100,100,255]• %c[0,140,140,140]Outskirts
-			\n%c[0,100,100,255]• %c[0,140,140,140]CNPP
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Radar
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Jupiter
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Outskirts
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]CNPP
 		</text>
 	</string>
 	
@@ -194,7 +194,7 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]The other part of Pripyat, still very much a ghost town. The mutant population is still strong, but the human presence remains neglible; only a few squads of Monolith forces inhabit the area, a group of stalkers has setup a temporary headquarters in the old Laundromat.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Pripyat
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Pripyat
 		</text>
 	</string>
 	
@@ -205,9 +205,9 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]The other part of the Red Forest. A dreadful place. Easy to vanish without a trace there, no matter how lucky you have been in life so far. Whoever gets close to the Brain Scorcher immediately goes insane, turns into a zombie and starts stalking the Zone restlessly. A human shell is all that's left. No-one has ever returned with a sound mind.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Army Warhouses
-			\n%c[0,100,100,255]• %c[0,140,140,140]Red Forest
-			\n%c[0,100,100,255]• %c[0,140,140,140]Pripyat
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Army Warhouses
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Red Forest
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Pripyat
 		</text>
 	</string>
 	
@@ -218,10 +218,10 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]The Red Forest is the 10-square-kilometre (4 sq mi) area near the Chernobyl Nuclear Power Plant. The name "Red Forest" comes from the ginger-brown colour of the pine trees after they died following the absorption of high levels of radiation from the Chernobyl accident. The forest considered as one of the most dangerous areas in the zone due to the high mutated activity.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Army Warhouses
-			\n%c[0,100,100,255]• %c[0,140,140,140]Jupiter
-			\n%c[0,100,100,255]• %c[0,140,140,140]Limansk
-			\n%c[0,100,100,255]• %c[0,140,140,140]Radar
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Army Warhouses
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Jupiter
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Limansk
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Radar
 		</text>
 	</string>
 	
@@ -232,10 +232,10 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]The Duty faction have set up camp on the plain's edge and they always welcome stalkers in need of rest. A desert oasis of sorts - a place completely devoid of anomalies and mutants. Be sure to check out the 100 Rads bar in the vaults - it's a meeting point for stalkers from all over the Zone. The bar is run by the local trader, so if you're interested in selling or buying wares apart from the local gossip - that's the place to go. North of the bar is the military base, with the Garbage to the south.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Wild Territory
-			\n%c[0,100,100,255]• %c[0,140,140,140]Garbage
-			\n%c[0,100,100,255]• %c[0,140,140,140]Army Warehouses
-			\n%c[0,100,100,255]• %c[0,140,140,140]Truck Cemetery
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Wild Territory
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Garbage
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Army Warehouses
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Truck Cemetery
 		</text>
 	</string>
 	
@@ -256,9 +256,9 @@
 			%c[0,0,255,30]Information\n%c[0,140,140,140]Following the disastrous explosion at the Chernobyl Nuclear Power Plant in 1986, many emergency, military and civilian vehicles were used in containing the disaster and radioactive fallout. Their service has earned them a doubtful reward: forever rusting in a scrapyard, as they were irradiated during the cleanup operation.
 \nShortly after the crisis was contained, the vehicles became prey to scavengers, who sought spare parts and scrap metal to sell on the market. Their situation did not improve when the Zone was born - the scrapyard attracted anomalies and became a deathtrap for the unwary, although a tempting one, since artifacts have a tendency to appear in and around the scrapyard.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Army Warhouses
-			\n%c[0,100,100,255]• %c[0,140,140,140]Rostok
-			\n%c[0,100,100,255]• %c[0,140,140,140]Dark Valley
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Army Warhouses
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Rostok
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Dark Valley
 		</text>
 	</string>
 	
@@ -269,9 +269,9 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]The Wild Territory used to be the site of a rather large manufacturing plant, currently in ruins. Many stalkers met their death there: the place is swarming with all sorts of monsters. The beasts are literally streaming over there from the entire Zone. It is said that something of great importance is hidden at this site, so there are always plenty of daredevils willing to try their luck.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Rostok
-			\n%c[0,100,100,255]• %c[0,140,140,140]Garbage
-			\n%c[0,100,100,255]• %c[0,140,140,140]Yantar
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Rostok
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Garbage
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Yantar
 		</text>
 	</string>
 	
@@ -318,9 +318,9 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]The legendary lake in the sector of the same name dried up a long ago, leaving a shallow swamp in its place. The place is morbid and sodden with death. Great dangers await any adventurous soul foolish enough to get near it. Anyone who dares to go too far goes insane. Zombie drones are rambling around the whole sector, waiting for new victims. If you walk around the lake and past the zombies, you'll end up at the scientists' camp, where the eggheads brought there by choppers are doing some research. You can have a chat with them; they buy artifacts and could even send you on a mission.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Dead City
-			\n%c[0,100,100,255]• %c[0,140,140,140]Wild Territory
-			\n%c[0,100,100,255]• %c[0,140,140,140]Aprogrom
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Dead City
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Wild Territory
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Aprogrom
 		</text>
 	</string>
 	
@@ -331,8 +331,8 @@
 		<text>
 			%c[0,0,255,30]Information\n%c[0,140,140,140]Zaton is the starting area of the game. The main body of the area - now a swamp - used to be part a large bay which is evident from many of the surrounding sights; huge ships, boats, and a docking area all tell a tale of the past. The grounded ships have been turned into makeshift homes for lone stalkers, and the center piece, the Skadovsk, now functions as a hub for stalkers, housing traders and providing a place for people to meet up, hang out, and get some rest. The surrounding area is ripe with interesting and dangerous places, including large concentrations of anomalies, a defunct weapon prototype testing facility, a water processing plant, and an old sawmill.
 			\n \n%c[0,0,255,30]Routes%c[0,140,140,140]
-			\n%c[0,100,100,255]• %c[0,140,140,140]Jupiter
-			\n%c[0,100,100,255]• %c[0,140,140,140]CNPP
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Jupiter
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]CNPP
 		</text>
 	</string>
 	
