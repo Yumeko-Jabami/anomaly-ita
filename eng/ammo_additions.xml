@@ -1,312 +1,312 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_meat_tark">
-		<text>Horse meat</text>
+		<text>Carne di cavallo</text>
 	</string>
 	<string id="st_meat_descr_tark">
-		<text>A piece of meat high in both nutrition and radiation. The scientists have enough samples already, which limits its use as a commodity. Source of animal fat for gun lubrication.\n \n%c[0,204,0,51]WARNING:\n \n%c[default]Stalkers are advised to refrain from eating raw meat as animals and mutants in the Zone are likely to be carrying trichinellosis or brucellosis. These diseases are transmitted by ingesting infected meat. The symptoms include fever, fatigue and appetite loss, all of which are extremely dangerous given the conditions in the Zone. Abscesses, fungal growth and tumors on the surface of the body indicate that the meat is infected and should be disposed of.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,0,255,30] • %c[0,140,140,140] low-tier mutant meat\n%c[0,0,255,30] • %c[0,140,140,140] not cookable\n%c[0,204,0,51] • %c[0,140,140,140] toxic food\n%c[0,204,0,51] • %c[0,140,140,140] radiation poisoning: %c[0,170,170,170] +646 mSv\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] weapon lubrication (+2%)</text>
+		<text>Un pezzo di carne molto nutriente ma pesantemente irradiato. Gli scienziati ne hanno giГ  ricevuto numerosi campioni e proprio per questo motivo ГЁ utilizzata solo come merce. Fonte di grasso, utilizzabile come lubrificante per le armi.\n \n%c[0,204,0,51]ATTENZIONE:\n \n%c[default]Non ГЁ consigliabile consumare la carne dei mutanti senza prima cuocerla poichГ© potrebbe contenere malattie come trichinellosi e brucellosi. Si possono contrarre ingerendo carne infetta. I sintomi includono febbre, affaticamento e perdita d'appetito, tutti pericolosissimi in un ambiente come quello della Zona. Ascessi, funghi e tumori sulla superficie indicano che la carne ГЁ infetta e dovrebbe essere gettata via.\n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,0,255,30] вЂў %c[0,140,140,140] carne di mutante di scarsa qualitГ \n%c[0,0,255,30] вЂў %c[0,140,140,140] non commestibile\n%c[0,204,0,51] вЂў %c[0,140,140,140] tossico\n%c[0,204,0,51] вЂў %c[0,140,140,140] avvelenamento da radiazioni: %c[0,170,170,170] +646 mSv\n%c[255,238,153,26] вЂў %c[0,140,140,140] utilizzabile per:%c[0,170,170,170] lubrificante per armi (+2%)</text>
 	</string>
 	<string id="st_bolt_descr">
-		<text>An ordinary rusty bolt, often used by novices and experienced stalkers alike to build safe pathways among anomalies.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,140,140,140] • %c[0,140,140,140] everyday item</text>
+		<text>Un bullone arrugginito, utilizzato spesso dagli stalkers per trovare una strada sicura in mezzo alle anomalie.\n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,140,140,140] вЂў %c[0,140,140,140] oggetto quotidiano</text>
 	</string>
 	<string id="mutant_tark_tail">
-		<text>Horse tail</text>
+		<text>Coda di cavallo</text>
 	</string>
 	<string id="mutant_tark_tail_description">
-		<text>A long, frayed tail, presumably from a local horse. The scientists have enough samples already, which limits its use as a commodity.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] mutated body part\n%c[0,153,255,255] • %c[0,140,140,140] common scientific specimen</text>
+		<text>Lunga e consumata, probabilmente ГЁ la coda di un cavallo. Gli scienziati ne hanno giГ  ricevuto molte, di conseguenza viene utilizzata come merce.\n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,153,255,255] вЂў %c[0,140,140,140] parte di corpo mutato\n%c[0,153,255,255] вЂў %c[0,140,140,140] campione scientifico</text>
 	</string>
 	<string id="trenchcoat_novice_name">
-		<text>Old trenchcoat</text>
+		<text>Vecchio cappotto</text>
 	</string>
 	<string id="trenchcoat_novice_description">
-		<text>\n  \n%c[0,170,170,170]A long brown cloak. It looks old and worn, a lot of patches and seams indicate numerous repairs. It is best to use with a gas mask or a closed breathing system. Initially, one mount for additional modules was installed.\n \n%c[0,170,170,170]FEATURES:\n%c[0,153,255,255] • %c[0,140,140,140] Lightweight Equipment\n%c[255,238,153,26] • %c[0,140,140,140] Usable for %c[0,170,170,170] equipment repair(+24%)\n \n%c[0,170,170,170]Head:\n%c[0,93,0,116] • %c[0,140,140,140] Torso: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] Shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] Filter: %c[0,170,170,170]None\n%c[0,93,0,116] • %c[0,140,140,140] Gloves: %c[0,170,170,170]None\n%c[0,93,0,116] • %c[0,140,140,140] Boots: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] Knees and shin: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] Feet: %c[0,170,170,170]I\n \n</text>
+		<text>\n  \n%c[0,170,170,170]Un vecchio cappotto marrone. Le cuciture e le toppe indicano che ГЁ stato riparato molte volte. Г€ consigliabile utilizzarlo con una maschera antigas. Inizialmente dispone di un solo slot per i moduli aggiuntivi.\n \n%c[0,170,170,170]CARATTERISTICHE:\n%c[0,153,255,255] вЂў %c[0,140,140,140] Equipaggiamento leggero\n%c[255,238,153,26] вЂў %c[0,140,140,140] Utilizzabile per %c[0,170,170,170] riparazioni di equipaggiamento(+24%)\n \n%c[0,170,170,170]Testa:\n%c[0,93,0,116] вЂў %c[0,140,140,140] Corpo: %c[0,170,170,170]I\n%c[0,93,0,116] вЂў %c[0,140,140,140] Spalle: %c[0,170,170,170]I\n%c[0,93,0,116] вЂў %c[0,140,140,140] Filtro: %c[0,170,170,170]Assente\n%c[0,93,0,116] вЂў %c[0,140,140,140] Guanti: %c[0,170,170,170]Assenti\n%c[0,93,0,116] вЂў %c[0,140,140,140] Stivali: %c[0,170,170,170]I\n%c[0,93,0,116] вЂў %c[0,140,140,140] Gambe: %c[0,170,170,170]I\n%c[0,93,0,116] вЂў %c[0,140,140,140] Piedi: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="st_heavy_stalker_outfit_name">
-		<text>Improvised STALKER suit</text>
+		<text>Tuta da STALKER improvvisata</text>
 	</string>
 	<string id="st_heavy_stalker_outfit_description">
-		<text>A trenchcoat modified with common materials in the Zone, featuring a twin-layered rubberised cloth with Plexiglas lining and built-in body armor. Despite the fact that the body armor is often strained by anything beyond even pistol bullets, the suit enjoys great popularity due to its low cost and modification potential.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light armor\n%c[255,238,153,26] • %c[0,140,140,140] Usable for %c[0,170,170,170] equipment repair (+34%)\n \n%c[0,170,170,170]Head:\n%c[0,93,0,116] • %c[0,140,140,140] Torso: %c[0,170,170,170]IIIA\n%c[0,93,0,116] • %c[0,140,140,140] Shoulders: %c[0,170,170,170]IIIA\n%c[0,93,0,116] • %c[0,140,140,140] Filter: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Gloves: %c[0,170,170,170]None\n%c[0,93,0,116] • %c[0,140,140,140] Hips: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Knees and shin: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] Feet: %c[0,170,170,170]IIIA\n \n</text>
+		<text>Un cappotto modificato con alcuni materiali comuni trovati nella Zona, ha due strati di tessuto in gomma e plexiglass e contiene un'armatura. Nonostante il fatto che il giubbetto antiproiettile sia spesso danneggiato da qualsiasi cosa non sia una pistola, la tuta gode di una grande popolaritГ  tra gli stalker per via del suo basso costo e della possibilitГ  di modificarla facilmente.\n \n%c[0,170,170,170]PROPRIETГЂ:\n%c[0,153,255,255] вЂў %c[0,140,140,140] armatura leggera\n%c[255,238,153,26] вЂў %c[0,140,140,140] Utilizzabile per %c[0,170,170,170] riparazioni di equipaggiamento (+34%)\n \n%c[0,170,170,170]Testa:\n%c[0,93,0,116] вЂў %c[0,140,140,140] Corpo: %c[0,170,170,170]IIIA\n%c[0,93,0,116] вЂў %c[0,140,140,140] Spalle: %c[0,170,170,170]IIIA\n%c[0,93,0,116] вЂў %c[0,140,140,140] Filtro: %c[0,170,170,170]III\n%c[0,93,0,116] вЂў %c[0,140,140,140] Guanti: %c[0,170,170,170]Assenti\n%c[0,93,0,116] вЂў %c[0,140,140,140] Fianchi: %c[0,170,170,170]III\n%c[0,93,0,116] вЂў %c[0,140,140,140] Gambe: %c[0,170,170,170]II\n%c[0,93,0,116] вЂў %c[0,140,140,140] Piedi: %c[0,170,170,170]IIIA\n \n</text>
 	</string>
 	<string id="st_wpn_flamewerfer">
-		<text>Flamethrower</text>
+		<text>Lanciafiamme</text>
 	</string>
 	<string id="st_wpn_flamewerfer_descr">
-		<text>A homemade flamethrower, prone to jamming and having poor range. Its haphazard design suggests it was made in the zone by a disturbed stalker.</text>
+		<text>Un lanciafiamme artigianale, inaffidabile e con una gittata limitata. Il suo design suggerisce che l'ha creato uno stalker con parecchi problemi.</text>
 	</string>
 	<string id="ammo_flw">
-		<text>Flamethrower fuel</text>
+		<text>Combustibile per lanciafiamme</text>
 	</string>
 	<string id="ammo_flw_descr">
-		<text>Boiled animal fat, diesel and bits of melted rubber. Makes for a sticky, napalm-like substance when lit. </text>
+		<text>Grasso d'animale bollito, diesel e gomma fusa. Il risultato ГЁ una sostanza appiccicosa, che assomiglia al napalm. </text>
 	</string>
 	<string id="st_grenade_light">
-		<text>M68 grenade</text>
+		<text>Granata M68</text>
 	</string>
 	<string id="st_grenade_light_descr">
-		<text>The M68 lightweight grenade packs a considerable amount of shrapnel and is popular among paratroopers, marines and special NATO forces. Fitted with the M213 fuse, it can be worn and rapidly deployed by hooking the trigger lever to the equipment belt.</text>
+		<text>L'M68 ГЁ una granata leggera ma che contiene una grande quantitГ  di schegge, popolare tra paracadutisti, marine e forze speciali della NATO. Equipaggiata con la spoletta M213, puГІ essere lanciata molto facilmente e rapidamente.</text>
 	</string>
 	<string id="soldier_izol_1_outfit_name">
-		<text>Gagarin combat suit</text>
+		<text>Uniforme da combattimento Gagarin</text>
 	</string>
 	<string id="soldier_izol_1_outfit_description">
-		<text>The Gagarin standard issue combat suit is the certified combat outfit for all standard army units operating within the Zone. Fitted with an external insulating coating and a closed-cycle breathing system using a modified GP-17 gas mask, it offers moderate protection against the Zone's climate. The Gagarin is built off of the Fort Redoubt T7 combat vest, and provides excellent shrapnel protection without reducing the wearers mobility. It's disadvantage is how much it weighs. It has three slots for additional modules.\n \n%c[0,170,170,170]FEATURES:\n%c[0,153,255,255] • %c[0,140,140,140] Reinforced Armor\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] equipment repair (+48%)\n \n%c[0,170,170,170]Head:\n%c[0,93,0,116] • %c[0,140,140,140] Torso: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Shoulders: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Filter: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Gloves: %c[0,170,170,170]IIIA\n%c[0,93,0,116] • %c[0,140,140,140] Hips: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Knees and shin: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Feet: %c[0,170,170,170]IV\n \n</text>
+		<text>L'uniforme Gagarin ГЁ la dotazione standard per tutti i soldati di stanza nella Zona. Ha uno strato protettivo esterno ed un sistema di depurazione dell'aria a ciclo chiuso utilizzando una maschera GP-17 modificata. Offre una protezione moderata dai pericoli della Zona. La Gagarin si basa sulla Fort Redoubt T7, protegge dalle schegge senza ridurre la mobilitГ . L'unico svantaggio ГЁ il suo peso. Ha tre slot per i moduli aggiuntivi.\n \n%c[0,170,170,170]CARATTERISTICHE:\n%c[0,153,255,255] вЂў %c[0,140,140,140] Armatura rinforzata\n%c[255,238,153,26] вЂў %c[0,140,140,140] Utilizzabile per: %c[0,170,170,170] riparazioni di equipaggiamento (+48%)\n \n%c[0,170,170,170]Testa:\n%c[0,93,0,116] вЂў %c[0,140,140,140] Corpo: %c[0,170,170,170]IV\n%c[0,93,0,116] вЂў %c[0,140,140,140] Spalle: %c[0,170,170,170]IV\n%c[0,93,0,116] вЂў %c[0,140,140,140] Filtro: %c[0,170,170,170]III\n%c[0,93,0,116] вЂў %c[0,140,140,140] Guanti: %c[0,170,170,170]IIIA\n%c[0,93,0,116] вЂў %c[0,140,140,140] Fianchi: %c[0,170,170,170]III\n%c[0,93,0,116] вЂў %c[0,140,140,140] Gambe: %c[0,170,170,170]IV\n%c[0,93,0,116] вЂў %c[0,140,140,140] Piedi: %c[0,170,170,170]IV\n \n</text>
 	</string>
 	<string id="st_rs_1b_outfit_name">
-		<text>РС-1B Lightweight Suit</text>
+		<text>Armatura leggera RS-1B</text>
 	</string>
 	<string id="st_rs_1b_outfit_description">
-		<text>The light armored "RS-1B" suit was developed by the Clear Sky group based on the existing ChN-1 combat suit. Besides some aesthetic modifications, the two are nearly identical in terms of protection. It offers little in terms of protection from the Zone's anomalies, but it's armor may stop shrapnel and other small projectiles.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] Light Armor\n%c[255,238,153,26] • %c[0,140,140,140] Usable for:  %c[0,170,170,170] equipment repair (+32%)\n \n%c[0,170,170,170]Head:\n%c[0,93,0,116] • %c[0,140,140,140] Torso: %c[0,170,170,170]IIIA\n%c[0,93,0,116] • %c[0,140,140,140] Shoulders: %c[0,170,170,170]IIIA\n%c[0,93,0,116] • %c[0,140,140,140] Filter: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] Gloves: %c[0,170,170,170]None\n%c[0,93,0,116] • %c[0,140,140,140] Hips: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] Knees and shin: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] Feet: %c[0,170,170,170]IIIA\n \n</text>
+		<text>L'armatura leggera "RS-1B" ГЁ stata sviluppata dalla fazione Clear Sky ed ГЁ basata sulla tuta da combattimento ChN-1. Nonostante alcune modifiche, le due sono quasi identiche. Offre poca protezione dalle anomalie, ma ГЁ in grado di fermare un paio di proiettili di piccolo calibro e le schegge di granata.\n \n%c[0,170,170,170]PROPRIETГЂ:\n%c[0,153,255,255] вЂў %c[0,140,140,140] Armatura leggera\n%c[255,238,153,26] вЂў %c[0,140,140,140] Utilizzabile per:  %c[0,170,170,170] riparazioni di equipaggiamento (+32%)\n \n%c[0,170,170,170]Testa:\n%c[0,93,0,116] вЂў %c[0,140,140,140] Corpo: %c[0,170,170,170]IIIA\n%c[0,93,0,116] вЂў %c[0,140,140,140] Spalle: %c[0,170,170,170]IIIA\n%c[0,93,0,116] вЂў %c[0,140,140,140] Filtro: %c[0,170,170,170]II\n%c[0,93,0,116] вЂў %c[0,140,140,140] Guanti: %c[0,170,170,170]Assenti\n%c[0,93,0,116] вЂў %c[0,140,140,140] Fianchi: %c[0,170,170,170]II\n%c[0,93,0,116] вЂў %c[0,140,140,140] Gambe: %c[0,170,170,170]II\n%c[0,93,0,116] вЂў %c[0,140,140,140] Piedi: %c[0,170,170,170]IIIA\n \n</text>
 	</string>
 	<string id="st_vodka_1_radiated">
-		<text>Putinka vodka (irradiated)</text>
+		<text>Vodka Putinka (irradiata)</text>
 	</string>
 	<string id="st_beer_large_1_radiated">
-		<text>Zhigulevskoye beer (irradiated)</text>
+		<text>Birra Zhigulevskoye (irradiata)</text>
 	</string>
 	<string id="st_beer_large_2_radiated">
-		<text>Ochakovo beer (irradiated)</text>
+		<text>Birra Ochakovo (irradiata)</text>
 	</string>
 	<string id="st_beer_1_radiated">
-		<text>Baltika №3 beer (irradiated)</text>
+		<text>Birra Baltika В№3 (irradiata)</text>
 	</string>
 	<string id="st_beer_2_radiated">
-		<text>Slavutich Premium beer (irradiated)</text>
+		<text>Slavutich Premium (irradiata)</text>
 	</string>
 	<string id="st_beer_can_1_radiated">
-		<text>Pripyat beer (irradiated)</text>
+		<text>Birra di Pripyat (irradiata)</text>
 	</string>
 	<string id="st_beer_can_2_radiated">
-		<text>Heineken beer (irradiated)</text>
+		<text>Birra Heineken (irradiata)</text>
 	</string>
 	<string id="st_water_large_1_radiated">
-		<text>Naroch mineral water (irradiated)</text>
+		<text>Acqua minerale Naroch (irradiata)</text>
 	</string>
 	<string id="st_water_large_2_radiated">
-		<text>Leninad mineral water (irradiated)</text>
+		<text>Acqua minerale Leninad (irradiata)</text>
 	</string>
 	<string id="st_water_can_1_radiated">
-		<text>Purified water (irradiated)</text>
+		<text>Acqua purificata (irradiata)</text>
 	</string>
 	<string id="st_water_can_2_radiated">
-		<text>Mineral water (irradiated)</text>
+		<text>Acqua minerale (irradiata)</text>
 	</string>
 	<string id="st_cocacola_radiated">
-		<text>Coca-Cola (irradiated)</text>
+		<text>Coca-Cola (irradiata)</text>
 	</string>
 	<string id="st_redbull_radiated">
-		<text>Redbull energy drink</text>
+		<text>Redbull</text>
 	</string>
 	<string id="st_guru_radiated">
-		<text>GURU energy drink (irradiated)</text>
+		<text>Drink energetico GURU (irradiato)</text>
 	</string>
 	<string id="st_marlboro_radiated">
-		<text>Marlboro cigarettes (irradiated)</text>
+		<text>Sigarette Marlboro (irradiate)</text>
 	</string>
 	<string id="st_lucky_radiated">
-		<text>Lucky Strike cigarettes (irradiated)</text>
+		<text>Sigarette Lucky Strike (irradiate)</text>
 	</string>
 	<string id="st_cuban_radiated">
-		<text>Cuban cigars (irradiated)</text>
+		<text>Sigaro cubano (irradiato)</text>
 	</string>
 	<string id="st_cigarettes_1_radiated">
-		<text>Cuban cigars (irradiated)</text>
+		<text>Sigari cubani (irradiati)</text>
 	</string>
 	<string id="st_wild_drink_radiated">
-		<text>Zone-produced liquor (irradiated)</text>
+		<text>Liquore artigianale (irradiato)</text>
 	</string>
 	<string id="st_kolbasa_smoked_radiated">
-		<text>Smoked sausage (irradiated)</text>
+		<text>Salsiccia affumicata (irradiata)</text>
 	</string>
 	<string id="st_beanz_radiated">
-		<text>Baked beans (irradiated)</text>
+		<text>Fagioli tostati (irradiati)</text>
 	</string>
 	<string id="st_tomatoes_radiated">
-		<text>Tomatoes (irradiated)</text>
+		<text>Pomodori (irradiati)</text>
 	</string>
 	<string id="st_chocolatebar_radiated">
-		<text>Chocolate protein bar (irradiated)</text>
+		<text>Barretta proteica al cioccolato (irradiata)</text>
 	</string>
 	<string id="st_snickers_radiated">
-		<text>Snickers (irradiated)</text>
+		<text>Snickers (irradiati)</text>
 	</string>
 	<string id="st_mars_radiated">
-		<text>Mars (irradiated)</text>
+		<text>Mars (irradiati)</text>
 	</string>
 	<string id="st_nuts_2_radiated">
-		<text>Trail mix (irradiated)</text>
+		<text>Frutta secca (irradiata)</text>
 	</string>
 	<string id="st_beef_radiated">
-		<text>Tushenka (irradiated)</text>
+		<text>Tushenka (irradiata)</text>
 	</string>
 	<string id="st_bullheads_radiated">
-		<text>Pasta and meatballs (irradiated)</text>
+		<text>Pasta e polpette (irradiata)</text>
 	</string>
 	<string id="st_sardina_radiated">
-		<text>"Pirate" Sardines (irradiated)</text>
+		<text>Sardine "Il Pirata" (irradiate)</text>
 	</string>
 	<string id="st_olivki_radiated">
-		<text>Olives (irradiated)</text>
+		<text>Olive (irradiate)</text>
 	</string>
 	<string id="st_cheese_radiated">
-		<text>"Yantar" processed cheese (irradiated)</text>
+		<text>Formaggio di "Yantar" (irradiato)</text>
 	</string>
 	<string id="st_galet_radiated">
-		<text>Biscuits (irradiated)</text>
+		<text>Biscotti (irradiati)</text>
 	</string>
 	<string id="st_shokolad_radiated">
-		<text>"Aljinushka" chocolate (irradiated)</text>
+		<text>Cioccolato "Aljinushka" (irradiato)</text>
 	</string>
 	<string id="st_batonchik_radiated">
-		<text>Chocolate bar (irradiated)</text>
+		<text>Barretta di cioccolato (irradiata)</text>
 	</string>
 	<string id="st_jerky_radiated">
-		<text>Beef jerky (irradiated)</text>
+		<text>Carne secca (irradiata)</text>
 	</string>
 	<string id="st_chips_radiated">
-		<text>Potato chips (irradiated)</text>
+		<text>Patatine (irradiate)</text>
 	</string>
 	<string id="st_hash_radiated">
-		<text>Biscuits and hash (irradiated)</text>
+		<text>Stuzzichini (irradiati)</text>
 	</string>
 	<string id="st_cpcb_radiated">
-		<text>Salted crackers (irradiated)</text>
+		<text>Cracker salati (irradiati)</text>
 	</string>
 	<string id="st_juice_radiated">
-		<text>Orange juice (irradiated)</text>
+		<text>Succo d'arancia (irradiato)</text>
 	</string>
 	<string id="st_mre_1_3_radiated">
-		<text>Army MRE (irradiated)</text>
+		<text>MRE dell'esercito (irradiato)</text>
 	</string>
 	<string id="st_mre_1_2_radiated">
-		<text>Army MRE (irradiated)</text>
+		<text>MRE dell'esercito (irradiato)</text>
 	</string>
 	<string id="st_mre_1_1_radiated">
-		<text>Army MRE (irradiated)</text>
+		<text>MRE dell'esercito (irradiato)</text>
 	</string>
 	<string id="st_bandage_israeli_radiated">
-		<text>Bandage (irradiated)</text>
+		<text>Bende (irradiate)</text>
 	</string>
 	<string id="st_amphetamines_4_radiated">
-		<text>Amphetamine (irradiated)</text>
+		<text>Anfetamina (irradiata)</text>
 	</string>
 	<string id="st_amphetamines_3_radiated">
-		<text>Amphetamine (irradiated)</text>
+		<text>Anfetamina (irradiata)</text>
 	</string>
 	<string id="st_amphetamines_2_radiated">
-		<text>Amphetamine (irradiated)</text>
+		<text>Anfetamina (irradiata)</text>
 	</string>
 	<string id="st_amphetamines_1_radiated">
-		<text>Amphetamine (irradiated)</text>
+		<text>Anfetamina (irradiata)</text>
 	</string>
 	<string id="st_diazepam_radiated">
-		<text>Diazepam (irradiated)</text>
+		<text>Diazepam (irradiato)</text>
 	</string>
 	<string id="st_psy_complex_radiated">
-		<text>Psychodelin (irradiated)</text>
+		<text>Psychodelin (irradiata)</text>
 	</string>
 	<string id="st_bio_bandage_radiated">
-		<text>Special bandage (irradiated)</text>
+		<text>Bende speciali (irradiate)</text>
 	</string>
 	<string id="st_drug_engine_radiated">
-		<text>Anti-hallucinogen (irradiated)</text>
+		<text>Farmaco Anti allucinogeno (irradiato)</text>
 	</string>
 	<string id="st_drug_cat_eye_radiated">
-		<text>Cat's eye (irradiated)</text>
+		<text>Occhio di gatto (irradiato)</text>
 	</string>
 	<string id="st_medo_radiated">
-		<text>Moonshine (irradiated)</text>
+		<text>Chiaro di luna (irradiato)</text>
 	</string>
 	<string id="st_mbk_radiated">
-		<text>Caffeine pills (irradiated)</text>
+		<text>Pillole di caffeina (irradiato)</text>
 	</string>
 	<string id="st_medkit_elite_radiated">
-		<text>Elite medkit (irradiated)</text>
+		<text>Kit di pronto soccorso Г©lite (irradiato)</text>
 	</string>
 	<string id="st_bag_medkit_1_radiated">
-		<text>Basic medkit (irradiated)</text>
+		<text>Kit di pronto soccorso (irradiato)</text>
 	</string>
 	<string id="st_bag_medkit_2_radiated">
-		<text>Army medkit (irradiated)</text>
+		<text>Kit di pronto soccorso dell'esercito (irradiato)</text>
 	</string>
 	<string id="st_bag_medkit_3_radiated">
-		<text>Scientific medkit (irradiated)</text>
+		<text>Kit di pronto soccorso scientifico (irradiato)</text>
 	</string>
 	<string id="st_bag_medkit_4_radiated">
-		<text>Special medkit (irradiated)</text>
+		<text>Kit medico speciale (irradiato)</text>
 	</string>
 
 	<!-- Crafting -->
 	<string id="selfroll_making">
-		<text>I'm rolling the leaves, won't take long.</text>
+		<text>Sto mettendo insieme le foglie, non ci vorrГ  molto.</text>
 	</string>
 	<string id="sleepbag_making">
-		<text>Sewing this sleeping bag will take a while.</text>
+		<text>Cucire il sacco a pelo richiederГ  un po' di tempo.</text>
 	</string>
 	<string id="backpack_making">
-		<text>Making this backpack will take a while.</text>
+		<text>Fare questo zaino mi richiederГ  del tempo.</text>
 	</string>
 	<string id="ammo12x70_making">
-		<text>I'm making the cartridges, might take a bit of time. </text>
+		<text>Sto producendo i colpi, sembra che ci un po' vorrГ  di tempo. </text>
 	</string>
 	<string id="selfroll_making_end">
-		<text>The roll is done.</text>
+		<text>Finalmente ho finito.</text>
 	</string>
 	<string id="sleepbag_making_end">
-		<text>The sleeping bag is done.</text>
+		<text>Il sacco a pelo ГЁ finito.</text>
 	</string>
 	<string id="backpack_making_end">
-		<text>The backpack is done.</text>
+		<text>Lo zaino ГЁ pronto.</text>
 	</string>
 	<string id="ammo12x70_making_end">
-		<text>The cartridges are done.</text>
+		<text>I proiettili sono pronti.</text>
 	</string>
 	<string id="st_selfroll_base_1_name">
-		<text>Paper, tobacco and filters.</text>
+		<text>Carta, tabacco e filtri.</text>
 	</string>
 	<string id="st_selfroll_base_1_descr">
-		<text>Tobacco, filters and paper, everything needed to make cigarettes. This should make about six to seven. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140]Crafted Items</text>
+		<text>Tabacco, carta e filtri. Tutto il necessario per fare delle sigarette. Dovrebbe contenere il necessario per prepararne circa sei o sette. \n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,153,255,255] вЂў %c[0,140,140,140]Oggetti artigianali</text>
 	</string>
 	<string id="ammo-12x70-buck_self">
-		<text>Homemade 12x70 shot rounds</text>
+		<text>Colpi 12x70 artigianali</text>
 	</string>
 	<string id="ammo-12x70-buck_self_descr">
-		<text>Homemade 12 gauge shell filled with 6 mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium\n \n%c[0,170,170,170]SPECIAL:\n \n%c[0,93,0,116] • %c[0,140,140,140] expanding cloud of pellets, short eff. range</text>
+		<text>Colpi calibro 12 riempiti di pezzi di metallo da 6 mm ciascuno. Molto letali a distanza ravvicinata. Utilizzabili solo con armi a canna liscia.\n \n%c[0,93,0,116] вЂў %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]none\n%c[0,93,0,116] вЂў %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium\n \n%c[0,170,170,170]SPECIAL:\n \n%c[0,93,0,116] вЂў %c[0,140,140,140] expanding cloud of pellets, short eff. range</text>
 	</string>
 	<string id="ammo12x70_base_name">
-		<text>Ammo components for 12x70 shot rounds</text>
+		<text>Componenti per costruire colpi 12x70</text>
 	</string>
 	<string id="ammo12x70_base_descr">
-		<text>Powder, shells and shot - everything needed to make 12x70 buckshot rounds. Has enough to make 40 rounds.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140]used for crafting ammunition\n%c[0,253,155,155] • %c[0,240,140,140]requires tools</text>
+		<text>Polvere, bossoli e colpi - tutto il necessario per creare dei pallettoni 12x70. Contiene abbastanza materiale per produrre 40 colpi.\n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,153,255,255] вЂў %c[0,140,140,140]utilizzabile per creare munizioni\n%c[0,253,155,155] вЂў %c[0,240,140,140]richiede degli attrezzi</text>
 	</string>
 	<string id="ammo12x70_tools_name">
-		<text>Tools for manufacturing 12x70 shot rounds</text>
+		<text>Attrezzi per costruire colpi 12x70</text>
 	</string>
 	<string id="ammo12x70_tools_descr">
-		<text>Tools necessary for making 12x70 buckshot rounds. 12x70.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140]used for crafting ammunition\n%c[0,153,255,255] • %c[0,140,140,140]everyday item</text>
+		<text>Attrezzi necessari per produrre dei pallettoni 12x70.\n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,153,255,255] вЂў %c[0,140,140,140]utilizzabile per creare munizioni\n%c[0,153,255,255] вЂў %c[0,140,140,140]oggetto quotidiano</text>
 	</string>
 	<string id="sew_tools_name">
-		<text>Sewing kit</text>
+		<text>Kit da cucito</text>
 	</string>
 	<string id="sew_tools_descr">
-		<text>Needles and cloth scraps. Everything you need to make cloth items.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140]Crafting Tools\n%c[0,153,255,255] • %c[0,140,140,140]Common</text>
+		<text>Aghi e pezzi di stoffa, contiene tutto il necessario per riparare e cucire.\n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,153,255,255] вЂў %c[0,140,140,140]Attrezzi per la creazione di oggetti\n%c[0,153,255,255] вЂў %c[0,140,140,140]Comune</text>
 	</string>
 	<string id="sleepbag_base_name">
-		<text>Sleeping bag components</text>
+		<text>Componenti per un sacco a pelo</text>
 	</string>
 	<string id="sleepbag_base_descr">
-		<text>Everything needed to make a sleeping bag.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140]Crafted Items\n%c[0,253,155,155] • %c[0,240,140,140]Sewing kit needed</text>
+		<text>Tutto il necessario per fare un sacco a pelo.\n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,153,255,255] вЂў %c[0,140,140,140]Oggetti artigianali\n%c[0,253,155,155] вЂў %c[0,240,140,140]Richiede un kit da cucito</text>
 	</string>
 	<string id="backpack_base_name">
-		<text>Backpack components</text>
+		<text>Pezzi di zaino</text>
 	</string>
 	<string id="backpack_base_descr">
-		<text>Rubberized fabric, zippers and rivets. Everything needed to craft a backpack.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140]Crafted Items\n%c[0,253,155,155] • %c[0,240,140,140]Sewing kit needed</text>
+		<text>Tessuto flessibile, cerniere e bretelle. Tutto il necessario per costruire uno zaino.\n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,153,255,255] вЂў %c[0,140,140,140]Oggetti artigianali\n%c[0,253,155,155] вЂў %c[0,240,140,140]Richiede un kit da cucito</text>
 	</string>
 	<string id="selfroll_1_name">
-		<text>Tobacco rolls</text>
+		<text>Sacchettino di tabacco</text>
 	</string>
 	<string id="selfroll_1_descr">
-		<text>Loose tobacco, filters and paper.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,253,155,155] • %c[0,240,140,140]May cause cancer\n%c[0,153,255,255] • %c[0,140,140,140]Homemade</text>
+		<text>Tabacco, filtri ed un po' di carta.\n \n%c[0,140,140,140]PROPRIETГЂ:\n%c[0,253,155,155] вЂў %c[0,240,140,140]PuГІ causare tumori\n%c[0,153,255,255] вЂў %c[0,140,140,140]Artigianale</text>
 	</string>
 	<!-- -->
 	<!-- Weapon and armory  trash mod-->
@@ -314,115 +314,115 @@
 		<text>Master disassembly tools</text>
 	</string>
 	<string id="st_itm_cutting_tools_descr">
-		<text>Factory made tools designed to disassemble anything. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,155,155,155] • %c[0,140,140,140]Crafting Tools\n%c[0,255,1,1] • %c[0,100,250,100]Works on high tech gear</text>
+		<text>Factory made tools designed to disassemble anything. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,155,155,155] вЂў %c[0,140,140,140]Crafting Tools\n%c[0,255,1,1] вЂў %c[0,100,250,100]Works on high tech gear</text>
 	</string>
 	<string id="st_itm_cutting_tools_2">
 		<text>Journeyman disassembly tools</text>
 	</string>
 	<string id="st_itm_cutting_tools_2_descr">
-		<text>A rusted set of tools for medium armor disassembly.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,155,155,155] • %c[0,140,140,140]Crafting Tools\n%c[0,255,1,1] • %c[0,100,250,100]Works on medium armor</text>
+		<text>A rusted set of tools for medium armor disassembly.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,155,155,155] вЂў %c[0,140,140,140]Crafting Tools\n%c[0,255,1,1] вЂў %c[0,100,250,100]Works on medium armor</text>
 	</string>
 	<string id="st_itm_cutting_tools_3">
 		<text>Basic disassembly tools</text>
 	</string>
 	<string id="st_itm_cutting_tools_3_descr">
-		<text>Improvised tools designed for fabric or light gas masks.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,155,155,155] • %c[0,140,140,140]Crafting Tools\n%c[0,255,1,1] • %c[0,100,250,100]Works on light armor and gas masks</text>
+		<text>Improvised tools designed for fabric or light gas masks.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,155,155,155] вЂў %c[0,140,140,140]Crafting Tools\n%c[0,255,1,1] вЂў %c[0,100,250,100]Works on light armor and gas masks</text>
 	</string>
 	<string id="plate_seva_name">
 		<text>SEVA plate</text>
 	</string>
 	<string id="plate_seva_descr">
-		<text>An armoured plate carved from a SEVA suit. Able to stop small bullets and gives some elemental resistance. Can be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: c[0,170,170,170]  Usable For: (+8%)</text>
+		<text>An armoured plate carved from a SEVA suit. Able to stop small bullets and gives some elemental resistance. Can be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: c[0,170,170,170]  Usable For: (+8%)</text>
 	</string>
 	<string id="plate_heavy_name">
 		<text>Heavy "ESAPI" plate</text>
 	</string>
 	<string id="plate_heavy_descr">
-		<text>A ceramic-composite plate that provides class 4 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+13%)</text>
+		<text>A ceramic-composite plate that provides class 4 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+13%)</text>
 	</string>
 	<string id="plate_medium_name">
 		<text>Medium "SAPI" plate</text>
 	</string>
 	<string id="plate_medium_descr">
-		<text>An armoured plate that provides class 3 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+10%)</text>
+		<text>An armoured plate that provides class 3 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+10%)</text>
 	</string>
 	<string id="plate_light_name">
 		<text>Homemade plate</text>
 	</string>
 	<string id="plate_light_descr">
-		<text>Hand-made armoured plate using kevlar and aramid. Provides class 2 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+7%)</text>
+		<text>Hand-made armoured plate using kevlar and aramid. Provides class 2 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+7%)</text>
 	</string>
 	<string id="plate_cloth_name">
 		<text>Light cloth plate</text>
 	</string>
 	<string id="plate_cloth_descr">
-		<text>Hand made kevlar and fabric plate. Provides class 1 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+5%)</text>
+		<text>Hand made kevlar and fabric plate. Provides class 1 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+5%)</text>
 	</string>
 	<string id="plate_military_name">
 		<text>Granite-4M plate</text>
 	</string>
 	<string id="plate_military_descr">
-		<text>Military heavy armoured plate composed of ceramics. Provides class 5 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+15%)</text>
+		<text>Military heavy armoured plate composed of ceramics. Provides class 5 protection. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+15%)</text>
 	</string>
 	<string id="plate_monolith_name">
 		<text>Unknown plate</text>
 	</string>
 	<string id="plate_monolith_descr">
-		<text>An armoured plate composed of unknown materials. Seems to be made of solid alloy and some fabric. Extremely heavy. Provides class 5 protection (in field tests). Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+15%)</text>
+		<text>An armoured plate composed of unknown materials. Seems to be made of solid alloy and some fabric. Extremely heavy. Provides class 5 protection (in field tests). Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+15%)</text>
 	</string>
 	<string id="plate_unload_name">
 		<text>Ammo pouch</text>
 	</string>
 	<string id="plate_unload_descr">
-		<text>A cut out ammo pouch, used to store magazines. Made of dense and high-quality fabric.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
+		<text>A cut out ammo pouch, used to store magazines. Made of dense and high-quality fabric.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
 	</string>
 	<string id="plate_small_name">
 		<text>Small armoured plate</text>
 	</string>
 	<string id="plate_small_descr">
-		<text>A small homemade armoured plate, likely made of melted down scrap. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+4%)</text>
+		<text>A small homemade armoured plate, likely made of melted down scrap. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+4%)</text>
 	</string>
 	<string id="cloth_green_name">
 		<text>Green cloth</text>
 	</string>
 	<string id="cloth_green_descr">
-		<text>Green fabric, cut from a green suit. Very high quality and dense fabric. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
+		<text>Green fabric, cut from a green suit. Very high quality and dense fabric. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
 	</string>
 	<string id="cloth_black_name">
 		<text>Black cloth</text>
 	</string>
 	<string id="cloth_black_descr">
-		<text>Black fabric, cut from a black suit. Very high quality and dense fabric. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
+		<text>Black fabric, cut from a black suit. Very high quality and dense fabric. Can be used as a repair material.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
 	</string>
 	<string id="cloth_brown_name">
 		<text>Brown cloth</text>
 	</string>
 	<string id="cloth_brown_descr">
-		<text>Brown fabric, cut from a brown suit. Very high quality and dense fabric. Can be used as a repair material. \n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
+		<text>Brown fabric, cut from a brown suit. Very high quality and dense fabric. Can be used as a repair material. \n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
 	</string>
 	<string id="cloth_white_name">
 		<text>White cloth</text>
 	</string>
 	<string id="cloth_white_descr">
-		<text>White fabric, cut from a white suit. Very high quality and dense fabric. Can be used as a repair material. \n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
+		<text>White fabric, cut from a white suit. Very high quality and dense fabric. Can be used as a repair material. \n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] armor repair(+3%)</text>
 	</string>
 	<string id="servomotor_name">
 		<text>Servo drive</text>
 	</string>
 	<string id="servomotor_descr">
-		<text>A servo taken from an exoskeleton. Looks like it could be replaced with a repair kit.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] высокоtechnological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] exoskeleton repair only(+20%)</text>
+		<text>A servo taken from an exoskeleton. Looks like it could be replaced with a repair kit.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] ГўГ»Г±Г®ГЄГ®technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] exoskeleton repair only(+20%)</text>
 	</string>
 	<string id="plastic_pieces_name">
 		<text>Plastic scraps</text>
 	</string>
 	<string id="plastic_pieces_descr">
-		<text>Bits and pieces of dense plastic, carved from a suit. Can be used for patchs or repairs.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] suit and helmet repair(+4%)</text>
+		<text>Bits and pieces of dense plastic, carved from a suit. Can be used for patchs or repairs.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] suit and helmet repair(+4%)</text>
 	</string>
 	<string id="glass_pieces_name">
 		<text>Glass</text>
 	</string>
 	<string id="glass_pieces_descr">
-		<text>Pieces of glass cur from gas masks or helmets. Can replace broken glass in almost any helmet with the right tools.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140]  Usable For: %c[0,170,170,170] helmet repair(+3%)</text>
+		<text>Pieces of glass cur from gas masks or helmets. Can replace broken glass in almost any helmet with the right tools.\n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140]  Usable For: %c[0,170,170,170] helmet repair(+3%)</text>
 	</string>
 	
 	
@@ -432,55 +432,55 @@
 		<text>Old shotgun parts</text>
 	</string>
 	<string id="st_spareparts_descr">
-		<text>Old wood and metal parts from various smooth bore rifles, all in varying condition. Some of this could be useful for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] shotgun repair(+5%)</text>
+		<text>Old wood and metal parts from various smooth bore rifles, all in varying condition. Some of this could be useful for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: %c[0,170,170,170] shotgun repair(+5%)</text>
 	</string>
 	<string id="st_sov_r_spareparts">
 		<text>Soviet automatic rifle parts</text>
 	</string>
 	<string id="st_sov_r_spareparts_descr">
-		<text>Old springs, barrels and stocks from various soviet rifles, all in varying condition. Some of this could be useful for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] soviet automatic rifle repair(+7%)</text>
+		<text>Old springs, barrels and stocks from various soviet rifles, all in varying condition. Some of this could be useful for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: %c[0,170,170,170] soviet automatic rifle repair(+7%)</text>
 	</string>
 	<string id="st_nato_r_spareparts">
 		<text>NATO automatic rifle parts</text>
 	</string>
 	<string id="st_nato_r_spareparts_descr">
-		<text>Old barrels, frames and stocks for various NATO automatic rifles, all in varying condition. Some of this could be useful for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] NATO automatic rifle repair(+7%)</text>
+		<text>Old barrels, frames and stocks for various NATO automatic rifles, all in varying condition. Some of this could be useful for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: %c[0,170,170,170] NATO automatic rifle repair(+7%)</text>
 	</string>
 	<string id="st_sov_p_spareparts">
 		<text>Soviet pistol parts</text>
 	</string>
 	<string id="st_sov_p_spareparts_descr">
-		<text>Old springs, hammers and frames from various soviet pistols. Some of this could be useful for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] soviet pistols(+6%)</text>
+		<text>Old springs, hammers and frames from various soviet pistols. Some of this could be useful for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: %c[0,170,170,170] soviet pistols(+6%)</text>
 	</string>
 	<string id="st_nato_p_spareparts">
 		<text>NATO pistol parts</text>
 	</string>
 	<string id="st_nato_p_spareparts_descr">
-		<text>Old springs, hammers and frames from various NATO pistols. Some of this could be useful for repairs.\n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] NATO pistols(+6%)</text>
+		<text>Old springs, hammers and frames from various NATO pistols. Some of this could be useful for repairs.\n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: %c[0,170,170,170] NATO pistols(+6%)</text>
 	</string>
 	<string id="st_sov_s_spareparts">
 		<text>Soviet sniper rifle parts</text>
 	</string>
 	<string id="st_sov_s_spareparts_descr">
-		<text>Old soviet long rifle parts. Some of this could be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] soviet sniper rifles(+8%)</text>
+		<text>Old soviet long rifle parts. Some of this could be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: %c[0,170,170,170] soviet sniper rifles(+8%)</text>
 	</string>
 	<string id="st_nato_s_spareparts">
 		<text>NATO sniper rifle parts</text>
 	</string>
 	<string id="st_nato_s_spareparts_descr">
-		<text>Old NATO sniper rifle parts. Some of this could be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] NATO sniper rifles(+8%)</text>
+		<text>Old NATO sniper rifle parts. Some of this could be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: %c[0,170,170,170] NATO sniper rifles(+8%)</text>
 	</string>
 	<string id="st_shot_spareparts">
 		<text>Shotgun parts</text>
 	</string>
 	<string id="st_shot_spareparts_descr">
-		<text>Relatively new parts designed for smooth barrel rifles. This could be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] shotgun repairs(+7%)</text>
+		<text>Relatively new parts designed for smooth barrel rifles. This could be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: %c[0,170,170,170] shotgun repairs(+7%)</text>
 	</string>
 	<string id="st_pp_spareparts">
 		<text>Submachine Gun Parts</text>
 	</string>
 	<string id="st_pp_spareparts_descr">
-		<text>Springs, frames and stocks designed for submachineguns. This could be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] submachine gun repairs(+6%)</text>
+		<text>Springs, frames and stocks designed for submachineguns. This could be used for repairs.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for: %c[0,170,170,170] submachine gun repairs(+6%)</text>
 	</string>
 	<!-- Weapon and armory trash mod-->
 	<!-- Music Player by FonSwong-->
@@ -488,7 +488,7 @@
 		<text>Radio</text>
 	</string>
 	<string id="st_musicplayer_desc">
-		<text>A modified radio, designed to be able to communicate with other radios yet filter out as much interference as possible. \n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] • %c[0,140,140,140] Technological Item</text>
+		<text>A modified radio, designed to be able to communicate with other radios yet filter out as much interference as possible. \n \n%c[0,140,140,140]PROPERTIES:\n \n%c[0,153,255,255] вЂў %c[0,140,140,140] Technological Item</text>
 	</string>
 	<!-- Music Player by FonSwong-->
 	<!-- Bad Ammo Addon-->
@@ -898,24 +898,24 @@
 		<text>Psi-Dog Brain</text>
 	</string>
 	<string id="mutant_part_psy_dog_brain_description">
-		<text>Psi-Dogs have powerful physic abilities, for example, the ability to induce "hallucinations" upon prey. These illusions are extremely convincing, often capable of inflicting very real trama through currently unknown means. Interestedly, scientists say that while they've identified the region of the brain responsible for the psionic abilities, it's evident that the region is "juvenile" in both development and evolutionary potential. Scientists will pay generously for samples of such tissues. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] Mutated body part\n%c[0,153,255,255] • %c[0,140,140,140] Rare scientific specimen\n%c[0,153,255,255] • %c[0,140,140,140] High value</text>
+		<text>Psi-Dogs have powerful physic abilities, for example, the ability to induce "hallucinations" upon prey. These illusions are extremely convincing, often capable of inflicting very real trama through currently unknown means. Interestedly, scientists say that while they've identified the region of the brain responsible for the psionic abilities, it's evident that the region is "juvenile" in both development and evolutionary potential. Scientists will pay generously for samples of such tissues. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] Mutated body part\n%c[0,153,255,255] вЂў %c[0,140,140,140] Rare scientific specimen\n%c[0,153,255,255] вЂў %c[0,140,140,140] High value</text>
 	</string>
 	<string id="st_deactivate_mix">
 		<text>Homemade Antiseptic</text>
 	</string>
 	<string id="st_deactivate_mix_descr">
-		<text>A mixture of tablets and solvents proven effective in neutralising radiation and bio-hazardous materials. Good for decontaminating items.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140]Decontaminates items\n%c[0,153,255,255] • %c[0,140,140,140]Homemade</text>
+		<text>A mixture of tablets and solvents proven effective in neutralising radiation and bio-hazardous materials. Good for decontaminating items.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140]Decontaminates items\n%c[0,153,255,255] вЂў %c[0,140,140,140]Homemade</text>
 	</string>
 	<string id="st_barrelkit_shotgun">
 		<text>Shotgun Barrel Replacement</text>
 	</string>
 	<string id="st_barrelkit_shotgun_descr">
-		<text>Specialised kit for replacing shotgun barrels in the field. Includes all tools and barrels.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for:%c[0,170,170,170] weapon repair</text>
+		<text>Specialised kit for replacing shotgun barrels in the field. Includes all tools and barrels.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] technological item\n%c[255,238,153,26] вЂў %c[0,140,140,140] Usable for:%c[0,170,170,170] weapon repair</text>
 	</string>
 	<string id="st_vodka_4">
 		<text>Jagermeister Liqueur</text>
 	</string>
 	<string id="st_vodka_4_descr">
-		<text>A German strong herbal liqueur. Made with 56 components and aged for 12 months in oak barrels. The label of the bottle depicts a deer with a cross on it's horns. According to legend, the deer was seen by Saint Hubert, the patron saint of hunters.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] Strong alcoholic beverage\n%c[0,153,255,255] • %c[0,140,140,140] Causes dizziness</text>
+		<text>A German strong herbal liqueur. Made with 56 components and aged for 12 months in oak barrels. The label of the bottle depicts a deer with a cross on it's horns. According to legend, the deer was seen by Saint Hubert, the patron saint of hunters.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] вЂў %c[0,140,140,140] Strong alcoholic beverage\n%c[0,153,255,255] вЂў %c[0,140,140,140] Causes dizziness</text>
 	</string>
 </string_table>
