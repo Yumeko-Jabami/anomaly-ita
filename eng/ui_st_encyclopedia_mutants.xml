@@ -2,22 +2,22 @@
 <string_table>
 	
 	<string id="encyclopedia_mutants">
-		<text>Mutants</text>
+		<text>Mutanti</text>
 	</string>
 	
 	<string id="encyclopedia_mutants_blind_dog">
-		<text>Blind dog</text>
+		<text>Cani Cechi</text>
 	</string>
 	<string id="encyclopedia_mutants_blind_dog_text">
 		<text>
-			%c[0,153,255,255]Blind dogs%c[0,140,140,140] are the most familiar representative of the Zone.\n
+			%c[0,153,255,255]I cani cechi%c[0,140,140,140] are the most familiar representative of the Zone.\n
 			\n%c[0,0,255,30]Information%c[0,140,140,140]\n
 			\nSeveral generations of dogs have lived and died since the second disaster, with each being more affected by the Zone than the previous.\n
 			\nNumerous rapid mutations and evolutionary adaptations have led to the strengthening of previously weakly expressed canine abilities - at the expense of those that share their habitat.\n
 			\nVision and hearing in many of these dogs is completely lost, but they have since developed a kind of telepathic vision that allows them to feel their prey literally through the walls.\n
 			\nLike their wolf ancestors, blind dogs hunt in packs, and an encounter with a large group can be dangerous even to the most well-armed and experienced of stalkers.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Low\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]• %c[0,140,140,140]Traits: None
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Low\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: None
 		</text>
 	</string>
 	
@@ -34,7 +34,7 @@
 			\nPerhaps their most peculiar ability is their optic camouflage, which allows them to temporarily become almost invisible to the naked eye.\n
 			\nTypically this won't last long, as they are at their weakest when cloaked and will often only use it when discovering prey or trying to hide their movements.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Camouflage, Blood-sucking
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Camouflage, Blood-sucking
 		</text>
 	</string>
 	
@@ -50,7 +50,7 @@
 			\nMutagenic processes have played a significant part in shaping these mammals: they have lost all fur in a few places and grown long, bristly fur in others.\n
 			\nUsually if distance is kept and they aren't antagonised, they will stick with their herd of flesh and other boars.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]• %c[0,140,140,140]Traits: None
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: None
 		</text>
 	</string>
 	
@@ -65,7 +65,7 @@
 			\nCreated as the result of genetic experiments on criminals under the program of human telekinetic development, burers naturally posses powerful telekinetic abilities.\n
 			\nBeing able to direct blasts of energy and manipulate physical objects with their mind, fighting burers can be difficult even when trying to hide from them.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee, Psychic (Electrical, Psi, Thermal)\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Psi-powers, Telekinesis
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee, Psychic (Electrical, Psi, Thermal)\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Psi-powers, Telekinesis
 		</text>
 	</string>
 	
@@ -81,7 +81,7 @@
 			\nOften when they attack, the first will try to distract their prey whilst the rest sneak behind and try to slash and bite, until it tires and/or bleeds out.\n
 			\nIf on their own they will instead behave quite cowardly, spending a long time stalking their target and harassing them until finding a good opportunity to attack.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Low\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]• %c[0,140,140,140]Traits: None
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Low\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: None
 		</text>
 	</string>
 	
@@ -97,7 +97,7 @@
 			\nIts second head allows for an even wider field of view, its hind legs allow it to jump huge distances, and its razor sharp claws and teeth can tear through practically any body armour.\n
 			\nThey are nocturnal creatures, so usually you won't see many of them during the day as they will be resting, but that doesn't rule it out as a possibility.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: High\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Nimble, Regenerative
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: High\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Nimble, Regenerative
 		</text>
 	</string>
 	
@@ -113,7 +113,7 @@
 			\nThe controller attacks mainly with a directed psi-bolt, which causes severe damage to the brain of its recipient, whilst passive exposure to the mutant can ultimately lead to suicide or zombification.\n
 			\nIt is widely believed that they can only attack what they can see, so making good use of cover to conceal yourself from its view could make all the difference in the outcome of fighting this creature.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee, Psychic\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Passive damage, Psi-powers, Mind control
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee, Psychic\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Passive damage, Psi-powers, Mind control
 		</text>
 	</string>
 	
@@ -127,7 +127,7 @@
 			\nIn order not to perish in a labyrinth of gravitational anomalies, military pilots use sophisticated detectors, but the secret of how crows safely navigate the Zone's skies remains a mystery.\n
 			\nLittle else is known about what makes the Zone's crows so special, or why they have remained almost completely genetically intact when compared to the rest of the local wildlife.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: None\n%c[0,100,100,255]• %c[0,140,140,140]Health: Low\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]• %c[0,140,140,140]Traits: None
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: None\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Low\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: None
 		</text>
 	</string>
 	
@@ -142,7 +142,7 @@
 			\nThis eventually caused the animal's phenotype to change significantly, their forelimbs have turned into insect-like legs which the flesh uses for digging up roots and tearing down carrion, whilst their bodies have become extremely bloated and fatty.\n
 			\nHowever they are mostly harmless, and will generally flee from a stalker if one approaches unless the creature is attacked or cornered and has nowhere else to run.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]• %c[0,140,140,140]Traits: None
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: None
 		</text>
 	</string>
 	
@@ -157,7 +157,7 @@
 			\nNot much is known about these creatures, it is believed they were either former residents who illegally lived in the area before the second disaster, or early test subjects involved in genetic experimentation.\n
 			\nIts hypertrophied arms and swollen hands slow the creature down, but also act like clubs which are able to easily knock down grown men with very little effort.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]• %c[0,140,140,140]Traits: None
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: None
 		</text>
 	</string>
 	
@@ -172,7 +172,7 @@
 			\nOn the few rare occasions that observations have been made, karliks are seen captivated by certain locations or artefacts, as if they have tasked themselves with their responsibility, and attacking anything that comes too close.\n
 			\nHardly anything else is known about them, as most who have encountered the creatures directly are often found dead or crazy with no discernible physical injuries.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee, Psychic (Electrical, Psi, Thermal)\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Passive damage, Phantom projection, Psi-powers, Telekinesis
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee, Psychic (Electrical, Psi, Thermal)\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Passive damage, Phantom projection, Psi-powers, Telekinesis
 		</text>
 	</string>
 	
@@ -188,7 +188,7 @@
 			\nTheir mysterious appearances and disappearances seem to correspond to the poltergeist legend, hence the name, as they will attempt to lift and throw heavy objects at you.\n
 			\nUnfortunately, all information about the poltergeist phenomenon originates from unclear and contradictory stories of questionable validity.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Psychic\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Average\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Psi-powers, Telekinesis
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Psychic\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Psi-powers, Telekinesis
 		</text>
 	</string>
 	
@@ -204,7 +204,7 @@
 			\nPseudodogs are often seen together with blind dogs, though they are much faster, stronger, and more aggressive than their blind relatives. They are also viciously territorial and will not hesitate to attack intruders.\n
 			\nIts powerful muscles and reshaped skeleton allow this monster to move with incredible speed and make huge swift jumps, allowing it to be far more agile than most other animals of its kind.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n \n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Nimble
+			\n \n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Nimble
 		</text>
 	</string>
 	
@@ -220,7 +220,7 @@
 			\nThere are no specific locations they are found as they tend to appear in the most unsuspecting of places.\n
 			\nUpon death they explode into multiple cloud-like formations before dissipating.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Psychic\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Average\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Psi-powers
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Psychic\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Psi-powers
 		</text>
 	</string>
 	
@@ -235,7 +235,7 @@
 			\nA pair of disproportionately huge limbs and incredibly powerful physical attacks allows it to devastate anything that is unfortunate enough to get near it - being able to create shockwaves that hurl objects by simply slamming its huge feet.\n
 			\nDespite their resilience they appear to be more territorial than offensive, typically not pursuing a target more than a short distance before abandoning the chase and falling back.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Very high\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Immense strength
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Very high\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Immense strength
 		</text>
 	</string>
 	
@@ -250,7 +250,7 @@
 			\nThese are different from regular phantoms produced by psi-fields and some other mutants, as they look more real and solid and can, at least to the mind, hurt what they attack.\n
 			\nVisually they are almost indistinguishable from pseudodogs aside from having large streaks of a grey/white fur.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee, Psychic\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Nimble, Phantom projection
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee, Psychic\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Nimble, Phantom projection
 		</text>
 	</string>
 	
@@ -264,7 +264,7 @@
 			\nAppearing as a floating form of heat haze surrounded by a fiery glow, they are easily distinguishable from regular poltergeists. On death, they explode in a mess of blood and fire.\n
 			\nTheir primary and only attack is spawning pillars of fire, similar to burner anomalies, which it will use to try to burn its enemies to death as it has no telekinetic ability.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Psychic (Thermal)\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Average\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Psi-powers
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Psychic (Thermal)\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Psi-powers
 		</text>
 	</string>
 	
@@ -279,7 +279,7 @@
 			\nRats are very smart creatures and will try to attack the victim from different angles, which when surrounded on all sides, has very little chance of surviving.\n
 			\nThey usually live in abandoned places and are said to feel danger and carefully bypass it.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Low\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Average\n%c[0,100,100,255]• %c[0,140,140,140]Traits: None
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Low\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: None
 		</text>
 	</string>
 	
@@ -294,7 +294,7 @@
 			\nSnorks lead a completely animal way of life. They move on all four limbs, bouncing over the ground and constantly sniffing the air to catch the smell of their next meal.\n
 			\nThey hunt cleverly and prudently, waiting for stalkers like predatory animals. Lightning reflexes and hypertrophied muscles allow snorks to make long, precise jumps and within seconds tear their victims to shreds.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Average\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]• %c[0,140,140,140]Traits: Nimble
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Average\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: Nimble
 		</text>
 	</string>
 	
@@ -310,7 +310,7 @@
 			\nThey live mostly in ruined buildings, feeding on everything that they can catch - both mutants and stalkers - and often in groups of up to ten individuals.\n
 			\nLike rats they are also very smart creatures and will attack their victims from all sides, and because of their small stature they can quickly overwhelm most prey when working together.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Low\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]• %c[0,140,140,140]Traits: None
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Low\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Fast\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: None
 		</text>
 	</string>
 	
@@ -326,7 +326,7 @@
 			\nAs a result of these changes, zombies are nothing but slow half-corpses, for which there are only two effective stimuli: food and sleep.\n
 			\nThis mutant only spawns when playing in survival mode.\n
 			\n%c[0,0,255,30]Statistics%c[0,140,140,140]\n
-			\n%c[0,100,100,255]• %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]• %c[0,140,140,140]Health: Low\n%c[0,100,100,255]• %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]• %c[0,140,140,140]Traits: None
+			\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Attacks: Melee\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Health: Low\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Speed: Slow\n%c[0,100,100,255]â€¢ %c[0,140,140,140]Traits: None
 		</text>
 	</string>
 	
