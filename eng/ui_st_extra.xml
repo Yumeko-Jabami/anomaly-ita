@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_upd_low">
+		<text>Low battery power</text>
+	</string>
+	<string id="st_upd_disconnected">
+		<text>You don't have a Universal Power Device (UPD)</text>
+	</string>
+	<string id="st_ui_containers">
+		<text>Containers</text>
+	</string>
+	<string id="st_ui_artifacts">
+		<text>Artifacts</text>
+	</string>
+	<string id="st_ui_container_remove">
+		<text>Remove from Container</text>
+	</string>
+	<string id="st_ui_container_place">
+		<text>Place in Container</text>
+	</string>
+
+	<!-- Part added by Tronex, for A-Life Revamp. I've used this file because its not touched by English Translations --> 
+	<string id="st_dyn_news_lurker_1">
+		<text>a lurker</text>
+	</string>
+	<string id="st_dyn_news_lurker_2">
+		<text>We were attacked by a lurker</text>
+	</string>
+	<string id="st_dyn_news_lurker_3">
+		<text>We got jumped by a lurker</text>
+	</string>
+	<string id="st_dyn_news_lurker_4">
+		<text>We were attacked by lurkers</text>
+	</string>
+	<string id="st_dyn_news_lurker_5">
+		<text>We got ambushed by lurkers</text>
+	</string>
+	<string id="st_dyn_news_lurker_6">
+		<text>a pack of lurkers</text>
+	</string>
+	
+	<string id="st_dyn_news_karlik_1">
+		<text>a karlik</text>
+	</string>
+	<string id="st_dyn_news_karlik_2">
+		<text>We got attacked by a little freak</text>
+	</string>
+	<string id="st_dyn_news_karlik_3">
+		<text>We ran into a karlik</text>
+	</string>
+	<string id="st_dyn_news_karlik_4">
+		<text>We were attacked by a group of karliks</text>
+	</string>
+	<string id="st_dyn_news_karlik_5">
+		<text>We ran into a group of karliks</text>
+	</string>
+	<string id="st_dyn_news_karlik_6">
+		<text>a group of karliks</text>
+	</string>
+	
+	<string id="st_dyn_news_psysucker_1">
+		<text>a psysucker</text>
+	</string>
+	<string id="st_dyn_news_psysucker_2">
+		<text>We got ambushed by a psysucker</text>
+	</string>
+	<string id="st_dyn_news_psysucker_3">
+		<text>A psysucker ambushed us</text>
+	</string>
+	<string id="st_dyn_news_psysucker_4">
+		<text>We got attacked by psysuckers</text>
+	</string>
+	<string id="st_dyn_news_psysucker_5">
+		<text>We got ambushed by a bunch of psysuckers</text>
+	</string>
+	<string id="st_dyn_news_psysucker_6">
+		<text>a pack of psysuckers</text>
+	</string>
+	<!-- Ends here --> 
+</string_table>

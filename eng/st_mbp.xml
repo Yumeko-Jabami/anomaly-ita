@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Level Names -->
+	<string id="mbp_have_to_sell">
+		<text>I actually have some rifle spare parts i don't need, interested?</text>
+	</string>
+	<string id="mbp_sell_confirm">
+		<text>Sounds fair enough, here you go.</text>
+	</string>
+	<string id="mbp_sell_confirm_r">
+		<text>Here's your cash.</text>
+	</string>
+	<string id="mbp_sell_deny">
+		<text>Damn you're worse than Sidorovich, guess I'll keep them.</text>
+	</string>
+	<string id="mbp_sell_deny_r">
+		<text>Stop wasting my time then.</text>
+	</string>
+</string_table>
