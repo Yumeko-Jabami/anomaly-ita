@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="st_upd_low">
-		<text>Low battery power</text>
+		<text>Batteria in esaurimento</text>
 	</string>
 	<string id="st_upd_disconnected">
-		<text>You don't have a Universal Power Device (UPD)</text>
+		<text>Non hai un UPD </text>
 	</string>
 	<string id="st_ui_containers">
-		<text>Containers</text>
+		<text>Contenitori</text>
 	</string>
 	<string id="st_ui_artifacts">
-		<text>Artifacts</text>
+		<text>Artefatti</text>
 	</string>
 	<string id="st_ui_container_remove">
-		<text>Remove from Container</text>
+		<text>Rimuovi dal Contenitore</text>
 	</string>
 	<string id="st_ui_container_place">
-		<text>Place in Container</text>
+		<text>Metti nel Contenitore</text>
 	</string>
 
 	<!-- Part added by Tronex, for A-Life Revamp. I've used this file because its not touched by English Translations --> 
