@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="request_to_no_go_nimble_bar_0">
-		<text>Is there something in that room?</text>
+		<text>C'è qualcosa in quella stanza?</text>
 	</string>
 	<string id="request_to_no_go_nimble_bar_1">
-		<text>Not something, someone. That guy in there is a veteran - he can get anyone any kind of equipment, even unique stuff. He isn't accepting any visitors, though - gotta make sure you're trusted for that. Gonna need a name around here.</text>
+		<text>Non qualcosa, qualcuno. Il tipo lì dentro è un veterano - può procurare a chiunque qualsiasi cosa, anche cose uniche. Non accetta ogni visitatore, perchè - deve essere sicuro che tu sia affidabile. Devi farti un nome.</text>
 	</string>
 
 	<string id="request_to_no_go_nimble_bar_1_0">
-		<text>So, can I meet this man now?</text>
+		<text>Quindi, posso incontrarlo ora?</text>
 	</string>
 	<string id="request_to_no_go_nimble_bar_1_1">
-		<text>Hm... Alright. I'll let Garry know. The name of the guy is Nimble. Head straight and then right along the corridor.</text>
+		<text>Hm... Va bene. Lo farò sapere a Garry. Il nome del tipo è Nimble. Vai dritto e gira a destra nel corridoio.</text>
 	</string>
 
 	<string id="request_to_no_go_nimble_bar_2_0">
-		<text>Is there something in that room?</text>
+		<text>C'è qualcosa in quella stanza?</text>
 	</string>
 	<string id="request_to_no_go_nimble_bar_2_1">
-		<text>Not something, someone. That guy in there is a veteran - he can get anyone any kind of equipment, even unique stuff. If you want to see him, go ahead - I trust you. Tell Garry I said you can pass - head straight and then right down the corridor. His name is Nimble.</text>
+		<text>Non qualcosa, qualcuno. Il tipo lì dentro è un veterano - può procurare a chiunque qualsiasi cosa, anche cose uniche. Se vuoi vederlo, vai - Mi fido di te. Dì a Garry che ti ho detto di lasciarti passare - vai dritto e poi a destra nel corridoio. Il suo nome è Nimble.</text>
 	</string>
 
 	<string id="guard1_meet_mlr_0">
@@ -26,37 +26,37 @@
 	</string>
 
 	<string id="request_go_to_nimble_0">
-		<text>I need to pass through.</text>
+		<text>Devo passare.</text>
 	</string>
 
 	<string id="about_freedom_lider_miklyha_0">
-		<text>Are you the stalker who broke through the Brain Scorcher and lived there for half a year?</text>
+		<text>Sei tu lo stalker che è andato oltre il Brucia Cervella ed ha vissuto lì per metà anno?</text>
 	</string>
 	<string id="about_freedom_lider_miklyha_1">
-		<text>Well, not half a year, just over a month. But yeah, name's Miklukha. Nice to meet you.</text>
+		<text>Bene, non metà anno, poco più di un mese. Massì, il mio nome è Miklukha. Piacere di conoscerti.</text>
 	</string>
 	<string id="about_freedom_lider_miklyha_2">
-		<text>How was it?</text>
+		<text>Come è stato?</text>
 	</string>
 	<string id="about_freedom_lider_miklyha_3">
-		<text>Sorry, but I'd rather not start reminiscing. What matters most is that I got out safe and sound.</text>
+		<text>Scusa, non voglio inziare a ricordarmelo. L'importante è che ne sia uscito vivo e vegeto.</text>
 	</string>
 	<string id="about_freedom_lider_miklyha_4">
-		<text>Got it. Thanks anyway.</text>
+		<text>Capito. Grazie comunque.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_4_2_0">
-		<text>Hello, Gatekeeper.</text>
+		<text>Eilà, Guardiano.</text>
 	</string>
 	<string id="look_for_cs_history_part_4_2_1">
-		<text>Hey there. Going to Limansk, are you? If it weren't for Leshiy... Anyway, welcome. Gonna need the money from you... And be careful not to get caught by our patrols - they aren't part of the agreement.</text>
+		<text>Eilà. Vai a Limansk? Se non fosse stato per Leshiy..... Ad ogni modo, Benvenuto. Ho bisogno dei soldi... E fai attenzione a non farti trovare dalle nostre pattuglie - Non fanno parte dell'accordo.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_4_1_0">
-		<text>Here's the money.</text>
+		<text>Ecco i soldi.</text>
 	</string>
 	<string id="look_for_cs_history_part_4_1_1">
-		<text>Very well. I'll give the heads-up to the watch at the bridge. Once you get there, the one to speak to is "Gatekeeper". Just act cool, and please try to find something that would shed some light on the disappearance of Scar.</text>
+		<text>Molto bene. I'll give the heads-up to the watch at the bridge. Once you get there, the one to speak to is "Gatekeeper". Just act cool, and please try to find something that would shed some light on the disappearance of Scar.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_3_1_0">
@@ -159,35 +159,35 @@
 	</string>
 
 	<string id="ds_killer_medic_mlr_heal_0">
-		<text>I need medical assistance.</text>
+		<text>Ho bisogno di cure mediche.</text>
 	</string>
 	<string id="ds_killer_medic_mlr_heal_1">
-		<text>Okay, let's see...</text>
+		<text>Okay, fammi vedere...</text>
 	</string>
 	<string id="ds_killer_medic_mlr_heal_2">
-		<text>Everything's fine.</text>
+		<text>Va tutto bene.</text>
 	</string>
 	<string id="ds_killer_medic_mlr_heal_3">
-		<text>How bad is it?</text>
+		<text>Quanto è grave?</text>
 	</string>
 	<string id="ds_killer_medic_mlr_heal_4">
-		<text>Right, everything should be in order now... I hope.</text>
+		<text>Bene, adesso dovrebbe essere tutto apposto... Spero.</text>
 	</string>
 
 	<string id="mil_freedom_medic_heal_0">
-		<text>I need medical assistance.</text>
+		<text>Ho bisogno di cure mediche.</text>
 	</string>
 	<string id="mil_freedom_medic_heal_1">
-		<text>Huh? Right, come on over.</text>
+		<text>Huh? Bene, vieni qua.</text>
 	</string>
 	<string id="mil_freedom_medic_heal_2">
-		<text>Dude, you're healthier than a bloodsucker.</text>
+		<text>Ei amico, sei più sano di un succhiasangue.</text>
 	</string>
 	<string id="mil_freedom_medic_heal_3">
-		<text>How bad is it?</text>
+		<text>Quanto è grave?</text>
 	</string>
 	<string id="mil_freedom_medic_heal_4">
-		<text>This might sting a bit. Right, you stay healthy now.</text>
+		<text>Questo potrebbe pizzicare un po'. Bene, starai bene adesso.</text>
 	</string>
 
 	<string id="meet_ds_killer_guide_main_base_0">
