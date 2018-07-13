@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_addon_companion_quick_menu_tooFar">
-		<text>My squad can not hear me. I need to come closer or contact them via PDA.</text>
+		<text>La mia squadra non può sentirmi. Devo avvicinarmi o contattarli tramite il PDA.</text>
 	</string>
 
 	<string id="st_addon_companion_quick_menu_followMe">
@@ -9,7 +9,7 @@
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_waitHere">
-		<text>ASPETTAMI</text>
+		<text>ASPETTAMI QUI</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stopStealth">
@@ -21,31 +21,31 @@
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stayClose">
-		<text>STAY CLOSE</text>
+		<text>STAMMI VICINO</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stayFar">
-		<text>STAY FAR</text>
+		<text>STAI LONTANO</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_fireAtWill">
-		<text>FIRE AT WILL</text>
+		<text>FUOCO A VOLONTÀ</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">
-		<text>IGNORE COMBAT, BUT HELP ME</text>
+		<text>IGNORA IL COMBATTIMENTO, MA AIUTAMI</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_ignoreCombat">
-		<text>IGNORE COMBAT</text>
+		<text>IGNORA IL COMBATTIMENTO</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_doNotLootCorpses">
-		<text>DO NOT LOOT CORPSES</text>
+		<text>NON SACCHEGGIARE I CADAVERI</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_lootCorpses">
-		<text>LOOT CORPSES</text>
+		<text>SACCHEGGIA I CADAVERI</text>
 	</string>
 	
 </string_table>
