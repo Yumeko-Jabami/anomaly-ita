@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_fs_1">
-		<text>About the job...</text>
+		<text>Riguardo il lavoro...</text>
 	</string>
 	<string id="st_fs_2">
-		<text>What is it?</text>
+		<text>Di cosa si tratta?</text>
 	</string>
 	<string id="st_fs_3">
-		<text>I heard your message. Need a guide?</text>
+		<text>Ho visto il tuo messaggio. Hai bisogno di una guida?</text>
 	</string>
 	<string id="st_fs_4">
-		<text>Alright, let's go.</text>
+		<text>Bene, muoviamoci.</text>
 	</string>
 	<string id="st_fs_5">
-		<text>Lead the way, stalker!</text>
+		<text>Fai strada, stalker!</text>
 	</string>
 	<string id="st_fs_6">
 		<text>Sorry, but you don't have the money to pay me in case the plan doesn't go through.</text>
 	</string>
 	<string id="st_fs_7">
-		<text>Remind me, where are we going?</text>
+		<text>Ricordami, dove siamo diretti?</text>
 	</string>
 	<string id="st_fs_8">
-		<text>Here we are.</text>
+		<text>Eccoci qua.</text>
 	</string>
 	<string id="st_fs_9">
-		<text>Finally! Thanks, stalker, nice work. Here's your money.</text>
+		<text>Finalmente! Grazie stalker, bel lavoro. Ecco i tuoi soldi.</text>
 	</string>
 	<string id="st_fs_10">
-		<text>I've changed my mind, I don't want to continue with it.</text>
+		<text>Ho cambiato idea, non voglio proseguire.</text>
 	</string>
 	<string id="st_fs_11">
-		<text>Really? Are you sure about that?</text>
+		<text>Seriamente? Sei sicuro di questo?</text>
 	</string>
 	<string id="st_fs_12">
-		<text>Yes, I'm sure.</text>
+		<text>Si, lo sono.</text>
 	</string>
 	<string id="st_fs_13">
-		<text>Actually, never mind.</text>
+		<text>In realtà, non fà niente.</text>
 	</string>
 	<string id="st_fs_14">
 		<text>Looking for a guide who can lead me to %s. Right now, I'm %s. Name's %s.</text>
