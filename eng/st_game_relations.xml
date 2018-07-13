@@ -2,7 +2,7 @@
 <string_table>
 	<!-- Communities -->
 	<string id="ui_st_community">
-		<text>Faction</text>
+		<text>Fazione</text>
 	</string>
 
 	<!-- Actor Factions -->
