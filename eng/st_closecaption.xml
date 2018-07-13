@@ -11,101 +11,101 @@
 		<text>Closed captions</text>
 	</string>
 	<string id="ui_mm_cc_none">
-		<text>No subtitles</text>
+		<text>No sottotitoli</text>
 	</string>
 	<string id="ui_mm_cc_storyonly">
-		<text>Important subtitles only</text>
+		<text>Solo sottotitoli importanti</text>
 	</string>
 	<string id="ui_mm_cc_all">
-		<text>All subtitles</text>
+		<text>Tutti i sottotitoli</text>
 	</string>
 
 	<!-- STRING TABLE ADDITIONS FOR GAME -->
 	<string id="st_sending_msg">
-		<text>Sending Message</text>
+		<text>Inviando un messaggio</text>
 	</string>
 	<string id="st_memo">
 		<text>Memo</text>
 	</string>
 	<string id="st_msgfrom_err1">
-		<text>[sender unknown]</text>
+		<text>[Sconosciuto]</text>
 	</string>
 	<string id="st_msgfrom_err2">
 		<text>&lt;!DATA_ERROR!&gt;</text>
 	</string>
 	<string id="st_msgfrom_err3">
-		<text>=?Network failure</text>
+		<text>=?Errore di rete</text>
 	</string>
 	<string id="st_joker_name">
 		<text>Joker</text>
 	</string>
 	<string id="st_soldier_name">
-		<text>Soldier</text>
+		<text>Soldato</text>
 	</string>
 	<string id="st_hq_general_name">
-		<text>General</text>
+		<text>Generale</text>
 	</string>
 	<string id="st_ssu_commander_name">
-		<text>USS Command</text>
+		<text>Commando USS</text>
 	</string>
 
 	<!-- CLOSED CAPTIONS FOR GAME -->
 	<string id="cc_effect-ambient-blowout_begin">
-		<text>[emission begins]</text>
+		<text>[emissione inziata]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b38_bloodsucker_roar">
-		<text>[bloodsucker roars]</text>
+		<text>[verso di succhisangue]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b38_electro_box_door">
-		<text>[electric box opens]</text>
+		<text>[centralina aperta]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b38_electro_box_switch">
-		<text>[power switch clicks]</text>
+		<text>[interrutore attivato]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b38_elevator_door">
-		<text>[elevator door opens]</text>
+		<text>[porta dell'ascensore aperta]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b38_cop_elevator_landing">
-		<text>[Grouse drops into elevator]</text>
+		<text>[Grouse entra nell'ascensore]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b38_lock_sound">
-		<text>[door unlocks]</text>
+		<text>[porta sbloccata]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b57_bloodsucker_roar">
-		<text>[bloodsucker roars]</text>
+		<text>[verso di succhiasangue]</text>
 	</string>
 	<string id="cc_effect-ambient-jupiter-jup_b16_oasis_noise">
-		<text>[odd crackling noise from somewhere close]</text>
+		<text>[uno strano scricchiolio vicino a te]</text>
 	</string>
 	<string id="cc_effect-ambient-jupiter-jup_b41_steam">
-		<text>[airlock decon system active]</text>
+		<text>[sistema airlock attivato]</text>
 	</string>
 	<string id="cc_effect-ambient-jupiter-jup_b46_spatial_bubble_idle">
-		<text>[spatial bubble rumbles]</text>
+		<text>[rumore di anonomalia spaziotemporale]</text>
 	</string>
 	<string id="cc_effect-ambient-jupiter-jup_b46_spatial_bubble_rupture">
-		<text>[spatial bubble bursts open]</text>
+		<text>[anomalia spaziotemporale aperta]</text>
 	</string>
 	<string id="cc_effect-ambient-jupiter-jup_b219_generator_start">
-		<text>[power generator starts]</text>
+		<text>[generatore attivato]</text>
 	</string>
 	<string id="cc_effect-ambient-jupiter-jup_b219_underpass_opening">
-		<text>[underpass gate opens]</text>
+		<text>[cancello del sottopassaggio aperto]</text>
 	</string>
 	<string id="cc_effect-ambient-underpass-pas_b400_elevator_off">
-		<text>[underpass elevator powers down]</text>
+		<text>[ascensore del sottopassaggio power off]</text>
 	</string>
 	<string id="cc_effect-ambient-pripyat-pri_a25_blow_up_door_peep">
-		<text>[bomb countdown beeps]</text>
+		<text>[beeps della bomba]</text>
 	</string>
 	<string id="cc_effect-ambient-pripyat-pri_a25_freezer_knock">
-		<text>[knocking on metal]</text>
+		<text>[rumore metallico]</text>
 	</string>
 	<string id="cc_effect-device-door_start">
-		<text>[door opens]</text>
+		<text>[la porta si apre]</text>
 	</string>
 	<string id="cc_effect-device-door_closing">
-		<text>[door closes]</text>
+		<text>[la porta si chiude]</text>
 	</string>
 	<string id="cc_effect-device-door_stop">
 		<text>[door slams shut]</text>
@@ -117,7 +117,7 @@
 		<text>[switch clicks]</text>
 	</string>
 	<string id="cc_effect-device-radio_call">
-		<text>[radio call]</text>
+		<text>[chiamata radio]</text>
 	</string>
 	<string id="cc_effect-device-wood_large_open">
 		<text>[wooden door opens]</text>
@@ -130,61 +130,61 @@
 		<text>[steam hiss]</text>
 	</string>
 	<string id="cc_effect-weapons-n_desert_eagle_shot">
-		<text>[pistol shot]</text>
+		<text>[colpa di pistola]</text>
 	</string>
 
 	<string id="cc_effect-music-guitar_">
-		<text>[guitar music]</text>
+		<text>[musica di chitarra]</text>
 	</string>
 	<string id="cc_effect-music-harmonica_">
-		<text>[harmonica music]</text>
+		<text>[musica di armonica]</text>
 	</string>
 	<string id="cc_effect-laughter_">
-		<text>[laughter]</text>
+		<text>[risate]</text>
 	</string>
 
 	<string id="cc_wounded-bandit-help">
-		<text>[wounded bandit asks for help]</text>
+		<text>[bandito ferito chiede aiuto]</text>
 	</string>
 	<string id="cc_wounded-dolg-help">
-		<text>[wounded Dutyer asks for help]</text>
+		<text>[duty ferito chiede aiuto]</text>
 	</string>
 	<string id="cc_wounded-freedom-help">
-		<text>[wounded Freedomer asks for help]</text>
+		<text>[freedom ferito chiede aiuto]</text>
 	</string>
 	<string id="cc_wounded-killer-help">
-		<text>[wounded merc asks for help]</text>
+		<text>[mercenario ferito chiede aiuto]</text>
 	</string>
 	<string id="cc_wounded-military-help">
-		<text>[wounded soldier asks for help]</text>
+		<text>[soldato ferito chiede aiuto]</text>
 	</string>
 	<string id="cc_wounded-monolith-help">
-		<text>[wounded Monolithian asks for help]</text>
+		<text>[monolith ferito chiede aiuto]</text>
 	</string>
 	<string id="cc_wounded-stalker-help">
-		<text>[wounded stalker asks for help]</text>
+		<text>[stalker ferito chiede aiuto]</text>
 	</string>
 
 	<string id="cc_fight-bandit-attack">
-		<text>[bandit attack]</text>
+		<text>[attacco banditi]</text>
 	</string>
 	<string id="cc_fight-dolg-attack">
-		<text>[Duty attack]</text>
+		<text>[attacco Duty]</text>
 	</string>
 	<string id="cc_fight-freedom-attack">
-		<text>[Freedom attack]</text>
+		<text>[attacco Freedom]</text>
 	</string>
 	<string id="cc_fight-killer-attack">
-		<text>[mercenary attack]</text>
+		<text>[attacco mercenario]</text>
 	</string>
 	<string id="cc_fight-military-attack">
-		<text>[army attack]</text>
+		<text>[attacco militare]</text>
 	</string>
 	<string id="cc_fight-monolith-attack">
-		<text>[Monolith attack]</text>
+		<text>[attacco monolith]</text>
 	</string>
 	<string id="cc_fight-stalker-attack">
-		<text>[stalker attack]</text>
+		<text>[attacco stalker]</text>
 	</string>
 
 	<!-- CLOSED CAPTIONS FOR 'CALL OF PRIPYAT' -->
