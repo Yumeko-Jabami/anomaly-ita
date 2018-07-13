@@ -5,11 +5,11 @@
 	</string>
 
 	<string id="st_addon_companion_quick_menu_followMe">
-		<text>FOLLOW ME</text>
+		<text>SEGUIMI</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_waitHere">
-		<text>WAIT HERE</text>
+		<text>ASPETTAMI</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stopStealth">
